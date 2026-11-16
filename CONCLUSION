@@ -2,7 +2,7 @@ Integrantes:
 Espindola Luciano
 Val Agustín
 Larroza Milagros
-
+ 
 Para realizar este trabajo optamos por el Modelo de Regresión Lineal Múltiple y entrenamos con los datos del archivo "precio_casas". Al poner a prueba el modelo con datos nuevos, obtuvimos un coeficiente de determinacion de 0.7209 del test y de 0.7085 durante el entrenamiento, con un margen de error promedio (RMSE) de $36,587.57 por propiedad. Esto significa que nuestro modelo logra entender y explicar el 72.1% de los motivos por los que cambia el precio de una casa, logrando un buen resultado que funciona bien con propiedades que no conocía.
 
 Al analizar los coeficientes obtenidos tras el entrenamiento, la variable con mayor influencia en la predicción fue num_cocinas, con un resultado de -55,648.73. Esto significa que, manteniendo constantes las demás variables, un incremento en la cantidad de cocinas genera una disminución significativa en el precio de la propiedad. Por otro lado, variables como num_habitaciones con un resultado de -17,819.12 también muestran un impacto negativo, mientras que aspectos como pies_cuadrados_casa con 88.94 o pies_cuadrados_garaje con 53.10 suman valor al precio total de la vivienda, el cual parte de una base intercepto de $72,196.83.
