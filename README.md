@@ -1,11 +1,12 @@
 # MODELO DE REGRESIÓN LINEAL MÚLTIPLE.
 
-## Integrantes:
+**Integrantes:**
+
 Espindola Luciano
 Val Agustín
 Larroza Milagros
 ---
-##<u>Conclusiones</u>
+# Conclusiones
 
 ### 1.Desempeño del modelo
 
